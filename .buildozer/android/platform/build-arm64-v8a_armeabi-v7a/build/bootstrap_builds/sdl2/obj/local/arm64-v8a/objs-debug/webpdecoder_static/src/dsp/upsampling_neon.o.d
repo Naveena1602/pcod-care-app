@@ -1,0 +1,23 @@
+/home/navee/pcodapp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/obj/local/arm64-v8a/objs-debug/webpdecoder_static/src/dsp/upsampling_neon.o: \
+  /home/navee/pcodapp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_image/external/libwebp/src/dsp/upsampling_neon.c \
+  /home/navee/pcodapp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_image/external/libwebp/src/dsp/dsp.h \
+  /home/navee/pcodapp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_image/external/libwebp/src/webp/types.h \
+  /home/navee/pcodapp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_image/external/libwebp/src/dsp/neon.h \
+  /home/navee/pcodapp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_image/external/libwebp/src/dsp/yuv.h \
+  /home/navee/pcodapp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_image/external/libwebp/src/dec/vp8_dec.h \
+  /home/navee/pcodapp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_image/external/libwebp/src/webp/decode.h \
+  /home/navee/pcodapp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_image/external/libwebp/src/webp/./types.h
+
+/home/navee/pcodapp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_image/external/libwebp/src/dsp/dsp.h:
+
+/home/navee/pcodapp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_image/external/libwebp/src/webp/types.h:
+
+/home/navee/pcodapp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_image/external/libwebp/src/dsp/neon.h:
+
+/home/navee/pcodapp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_image/external/libwebp/src/dsp/yuv.h:
+
+/home/navee/pcodapp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_image/external/libwebp/src/dec/vp8_dec.h:
+
+/home/navee/pcodapp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_image/external/libwebp/src/webp/decode.h:
+
+/home/navee/pcodapp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_image/external/libwebp/src/webp/./types.h:

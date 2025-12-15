@@ -1,0 +1,11 @@
+# (str) Icon of the application
+icon.filename = icon.png
+
+# (str) Supported orientation (portrait, landscape or all)
+orientation = portrait
+
+# (str) Splash screen image
+presplash.filename = splash.png
+
+# (str) Presplash background color (R,G,B,A)
+presplash.color = 1,1,1,1   # white background
